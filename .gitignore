@@ -1,3 +1,6 @@
-*.log *.db
+*.log 
+*.db
+/target 
+/bin
 
 
